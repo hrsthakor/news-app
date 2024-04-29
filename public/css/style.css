@@ -1,0 +1,10 @@
+/* for footer */
+footer.pt-5.my-5.text-muted {
+    text-align: center;
+    background: aliceblue;
+}
+
+/*for index page */
+.container.mx-auto {
+    margin-bottom: 22%;
+}
