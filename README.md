@@ -24,7 +24,7 @@
 
 ## Installation
 
-1. git clone https://github.com/Moweb-Technologies-Pvt-Ltd/laravel-st-tracker.git
+1. git clone https://github.com/hrsthakor/news-app.git
 
 2. `cd laravel-st-tracker`
 
