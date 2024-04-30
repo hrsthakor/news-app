@@ -36,7 +36,7 @@
 
 4. `cp .env.example .env`
 
-    - This command will create a copy of the `.env.example` file and name it `.env`.
+    - This command will create a copy of the `.env.example` file and name it `.env`. also add database name in .env file
 
 5.  `Add require environment variables`
 
